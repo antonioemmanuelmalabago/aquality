@@ -39,5 +39,4 @@ Antonio Malabago
 
 ## 🙏 Acknowledgments
 
-- [Sketchfab - Rick & Soy Sauce for Maneki Neko 3D Model](https://sketchfab.com/3d-models/lucky-cat-maneki-neko-50b5d360717c442c971b3db0576606c4)
-- [Sketchfab - Vr-cvantorium for Cat Rigged 3D Model](https://sketchfab.com/3d-models/cat-rigged-eccebebd5a60484eaa49036f8a4b6ed7)
+- Makerlab Electronics Philippines
