@@ -42,3 +42,5 @@ Antonio Malabago
 ## 🙏 Acknowledgments
 
 - [Makerlab Electronics Philippines](https://www.makerlab-electronics.com/)
+- Rosario Water System
+- Pamantasan ng Lungsod ng Maynila
