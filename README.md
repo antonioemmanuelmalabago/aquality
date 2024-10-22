@@ -39,4 +39,4 @@ Antonio Malabago
 
 ## 🙏 Acknowledgments
 
-- Makerlab Electronics Philippines
+- [Makerlab Electronics Philippines](https://www.makerlab-electronics.com/)
