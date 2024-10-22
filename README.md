@@ -9,7 +9,7 @@ Aquality is an IoT-based water quality monitoring and analysis system developed 
 ## 🎯 Objectives
 
 - Design a monitoring system that assesses water quality parameters (pH level, turbidity, total dissolved solids, pressure, and temperature).
-- Assemble a hardware system comprising an array of water sensors, a robust microprocessor, and a wireless communication module.
+- Assemble a hardware system comprising an array of water sensors, a robust microprocessor, and a power backup module.
 - Include an intuitive interface for displaying the recorded sensor readings.
 - Implement database mirroring technique between local SD card and Firebase RTDB.
 - Perform calibration techniques to match the accuracy of laboratory results.
