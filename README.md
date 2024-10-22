@@ -1,6 +1,6 @@
 # Aquality
 
-[Aquality](https://res.cloudinary.com/de86eimvq/image/upload/v1729611648/portfolio/Projects/aquality/x8fcoksgnc2dtjyspdaj.png)
+![Aquality](https://res.cloudinary.com/de86eimvq/image/upload/v1729611648/portfolio/Projects/aquality/x8fcoksgnc2dtjyspdaj.png)
 
 ## 📋 Overview
 
