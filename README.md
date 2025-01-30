@@ -35,9 +35,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Antonio Malabago
-- Website: [antoniomalabago.com](https://antoniomalabago.com)
-- LinkedIn: [linkedin.com/in/antonio-emmanuel-malabago](https://www.linkedin.com/in/antonio-emmanuel-malabago/)
+Antonio Malabago  
+- Website: [https://antoniomalabago.com](https://antoniomalabago.com)  
+- LinkedIn: [https://linkedin.com/in/antonio-emmanuel-malabago](https://www.linkedin.com/in/antonio-emmanuel-malabago/)
 
 ## Acknowledgements
 
