@@ -39,7 +39,7 @@ Antonio Malabago
 - Website: [antoniomalabago.com](https://antoniomalabago.com)
 - LinkedIn: [linkedin.com/in/antonio-emmanuel-malabago](https://www.linkedin.com/in/antonio-emmanuel-malabago/)
 
-## Acknowledgments
+## Acknowledgements
 
 - [Makerlab Electronics Philippines](https://www.makerlab-electronics.com/)
 - Rosario Water System
